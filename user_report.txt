@@ -1,0 +1,63 @@
+ USER STATISTICS 
+Total Users: 57
+System Users (UID < 1000): 55
+Regular Users (UID >= 1000): 1
+Currently Logged In: 1
+
+REGULAR USER DETAILS
+Username        UID      Home Directory            Shell          
+--------        ---      --------------            -----          
+amaan           1000     /home/amaan               /usr/bin/zsh   
+
+=== GROUP INFORMATION ===
+root - 0 members
+daemon - 0 members
+bin - 0 members
+sys - 0 members
+adm - 1 members
+tty - 0 members
+disk - 0 members
+lp - 0 members
+mail - 0 members
+news - 0 members
+uucp - 0 members
+man - 0 members
+proxy - 0 members
+kmem - 0 members
+dialout - 1 members
+
+SECURITY ALERTS
+Users with UID 0:
+  - root
+
+Users without passwords:
+  - dhcpcd
+  - tss
+  - strongswan
+  - tcpdump
+  - _rpc
+  - dnsmasq
+  - avahi
+  - nm-openvpn
+  - speech-dispatcher
+  - usbmux
+  - lightdm
+  - statd
+  - saned
+  - rtkit
+  - mysql
+  - geoclue
+  - Debian-snmp
+  - sslh
+  - cups-pk-helper
+  - redsocks
+  - _gophish
+  - iodine
+  - miredo
+  - redis
+  - postgres
+  - mosquitto
+  - inetsim
+  - _gvm
+
+Users never logged in:
